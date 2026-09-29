@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="try2/try2.csproj" />
+  <Project Path="xUnitTestProject/xUnitTestProject.csproj" />
+</Solution>
